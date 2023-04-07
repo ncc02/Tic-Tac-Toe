@@ -1,0 +1,2 @@
+.square{align-items:center;background-color:#fff;border:2px solid #000;border-radius:10px;box-shadow:2px 2px 2px gray;display:flex;font-size:50px;font-weight:700;height:100px;justify-content:center;margin:5px;width:100px}.square:hover{background-color:#d3d3d3}.square:focus{outline:none}.board-row,.game{display:flex;justify-content:center}.game{align-items:center;height:100vh}.game-board{background-color:#add8e6;border-radius:10px;box-shadow:5px 5px 5px gray;padding:20px}.status{font-size:30px;font-weight:700;margin-bottom:20px}
+/*# sourceMappingURL=main.41c9be43.css.map*/
